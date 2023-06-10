@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprotectclimateactivists=self.webpackChunkprotectclimateactivists||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Long Blog Post","permalink":"/protectclimateactivists/blog/long-blog-post"}]}')}}]);
