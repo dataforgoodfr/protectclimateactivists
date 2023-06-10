@@ -35,8 +35,9 @@ In December, Vietnam secured $15.5bn of funding through the Just Energy Transiti
 - French [Green party](https://www.eelv.fr/soutien-a-hong-hoang-activiste-pour-le-climat/) condemns the arrest - 7 Jun
 - [Columbia University](https://news.columbia.edu/news/university-statement-arrest-hoang-thi-minh-hong) condemns the arrest - 7 Jun
 - Obama foundation [demands](https://www.instagram.com/p/CtRU3RzuwWM/) rights of Hong are respected - 9 Jun
+- Greta [calls for the release](https://twitter.com/GretaThunberg/status/1667492902736412673?s=20) of Hong and the other vietnamese climate activists - 10 jun
 
-## Your turn to support Hong Hoang
+## What can I do to support Hong Hoang?
 
 Now, more than ever, Hong needs our solidarity. Just as she's stood up for our environment, it's our turn to stand up for her. Stand with us in showing support for Hong Hoang and all climate activists who continue to dedicate their lives to the fight for a sustainable future.
 
@@ -45,6 +46,7 @@ If you have direct access to decision makers :
 1. Contact your government to ask for Hong’s and the 5 other activists release
 2. Post the hashtags #freehong #freethemall on your social network
 3. Download https://regroop.club and take daily strategic actions on the #freehong campaigns for 20 seconds a day
+
 
 ## Who we are?
 A group of university friends from Hong and climate activists

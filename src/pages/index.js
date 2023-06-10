@@ -213,24 +213,24 @@ const StoryCardsSection = () => {
       content: 'Hong Hoang, a dedicated climate advocate from Vietnam, devoted her life to combatting climate change and inspiring her community to join the cause. Despite her peaceful and educational initiatives, Hong now finds herself in detention. Join us in rallying support for Hong and countless other climate activists facing similar situations.',
       link: '/freehong',
     },
-    {
-      heroImage: `img/graphics/chut.jpg`, //replace with the actual image path
-      name: 'Chut Wutty',
-      title: 'Legacy of a Guardian: Remembering Chut Wutty',
-      content: 'Cambodian environmentalist Chut Wutty, who dedicated his life to investigating illegal logging, is one of the many we remember and honor. His bravery in the face of grave dangers echoes in the countless advocates who continue the work today. Their commitment to safeguarding our planet compels us to protect them in return.',
-    },
-    {
-      heroImage: `img/graphics/joannah.jpeg`, //replace with the actual image path
-      name: 'Joannah Stutchbury',
-      title: 'The Echo of Joannah Stutchbury\'s Fight',
-      content: 'Joannah Stutchbury was a remarkable environmental activist who was tragically shot outside her home in Kenya. Her work shone a spotlight on the beauty of our ecosystems and the importance of their preservation. Despite her tragic loss, her story continues to inspire the global community to protect the planet, and those who fight for it.',
-    },
-    {
-      heroImage: `img/graphics/dom.jpeg`, //replace with the actual image path
-      name: 'Dom Phillips and Bruno Pereira',
-      title: 'The Unfinished Work of Dom Phillips and Bruno Pereira',
-      content: 'Dom Phillips and Bruno Pereira, killed in Brazil\'s Amazon, were dedicated environmental defenders committed to enlightening the world about sustainable development. Their unfinished mission fuels our fight to protect climate activists, ensuring their work and sacrifices do not go in vain.',
-    },
+    // {
+    //   heroImage: `img/graphics/chut.jpg`, //replace with the actual image path
+    //   name: 'Chut Wutty',
+    //   title: 'Legacy of a Guardian: Remembering Chut Wutty',
+    //   content: 'Cambodian environmentalist Chut Wutty, who dedicated his life to investigating illegal logging, is one of the many we remember and honor. His bravery in the face of grave dangers echoes in the countless advocates who continue the work today. Their commitment to safeguarding our planet compels us to protect them in return.',
+    // },
+    // {
+    //   heroImage: `img/graphics/joannah.jpeg`, //replace with the actual image path
+    //   name: 'Joannah Stutchbury',
+    //   title: 'The Echo of Joannah Stutchbury\'s Fight',
+    //   content: 'Joannah Stutchbury was a remarkable environmental activist who was tragically shot outside her home in Kenya. Her work shone a spotlight on the beauty of our ecosystems and the importance of their preservation. Despite her tragic loss, her story continues to inspire the global community to protect the planet, and those who fight for it.',
+    // },
+    // {
+    //   heroImage: `img/graphics/dom.jpeg`, //replace with the actual image path
+    //   name: 'Dom Phillips and Bruno Pereira',
+    //   title: 'The Unfinished Work of Dom Phillips and Bruno Pereira',
+    //   content: 'Dom Phillips and Bruno Pereira, killed in Brazil\'s Amazon, were dedicated environmental defenders committed to enlightening the world about sustainable development. Their unfinished mission fuels our fight to protect climate activists, ensuring their work and sacrifices do not go in vain.',
+    // },
   ];
 
   return (

@@ -12,10 +12,10 @@ const config = {
   favicon: 'img/graphics/fist2.png',
   trailingSlash: true,
   // Set the production url of your site here
-  url: 'https://dataforgoodfr.github.io',
+  url: 'https://www.protectclimateactivists.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/protectclimateactivists/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -82,7 +82,7 @@ const config = {
           {to: '/#about', label: 'About the cause', position: 'right'},
           {to: '/#stories', label: 'Their stories', position: 'right'},
           {to: '/freehong', label: '#freehong', position: 'right'},
-          {href: "https://regroop.club", label: 'What can I do', position: 'right'},
+          {to: '/freehong/#what-can-i-do-to-support-hong-hoang',label: 'What can I do', position: 'right'}
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
