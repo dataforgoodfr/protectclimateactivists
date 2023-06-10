@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprotectclimateactivists=self.webpackChunkprotectclimateactivists||[]).push([[9700],{5688:t=>{t.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
