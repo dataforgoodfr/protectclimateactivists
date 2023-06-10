@@ -44,7 +44,7 @@ Now, more than ever, Hong needs our solidarity. Just as she's stood up for our e
 If you have direct access to decision makers : 
 
 1. Contact your government to ask for Hong’s and the 5 other activists release
-2. Post the hashtags #freehong #freethemall on your social network
+2. Post the hashtags #freehong #freethemall on your social network and follow the [instagram page](https://www.instagram.com/free.hong/?igshid=MzNlNGNkZWQ4Mg%3D%3D) and join the [telegram channel](https://t.me/freehongfreethemall) for live news and coordination
 3. Download https://regroop.club and take daily strategic actions on the #freehong campaigns for 20 seconds a day
 
 
@@ -60,3 +60,10 @@ A group of university friends from Hong and climate activists
 ![](/img/hong/8.jpeg)  
 ![](/img/hong/9.jpeg)  
 ![](/img/hong/10.jpeg)  
+
+
+## Press coverage
+
+- https://www.theguardian.com/world/2023/jun/02/vietnam-outcry-after-leading-climate-activist-arrested-accused-of-tax-evasion
+- https://www.npr.org/2023/06/03/1179728649/hoang-thi-minh-hong-arrest-vietnam-climate-deal
+- https://www.aljazeera.com/news/2023/6/2/us-un-slam-arrest-of-prominent-vietnamese-environmental-activist
